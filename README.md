@@ -1,1 +1,1 @@
-# NameGenerator
+# Name Generator
